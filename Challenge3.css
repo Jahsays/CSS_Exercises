@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0;
+    color: #000;
+    background-color:#495f8b;
+    
+}
+
+#wrap{
+    margin: 0px 40px 40px 40px;
+    background-color:#638bd4;
+    background-repeat: repeat-y;
+    border: 1px solid;
+}
+
+#nav{
+    background-color: #99ccff;
+    border-bottom: 1px solid #333;
+    float: left;
+    width: 160px;
+    height: 500px;
+    margin-top: 0px;
+    padding-top: 1em;
+    padding-left: 10px;
+}
+
+#content{
+    padding-top: 1em;
+    text-align: center;
+    height: 500px;
+}
+
+.copyright{
+    clear: both;
+    text-align: center;
+}

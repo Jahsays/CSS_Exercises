@@ -1,0 +1,33 @@
+div{
+    height: 200px;
+    width: 1090px;
+    margin: 10px;
+    background-color: aqua;
+    border: 20px;
+    justify-self: center;
+    
+}
+
+.one, .two, .three{
+  display: inline-block;
+  height: 400px;
+  width: 350px;
+  
+}
+
+.top{
+    background-color: blueviolet
+
+}
+
+.one{
+   background-color: crimson;
+}
+
+.two{
+    background-color: aquamarine;
+}
+
+.three{
+    background-color: orange;
+}
